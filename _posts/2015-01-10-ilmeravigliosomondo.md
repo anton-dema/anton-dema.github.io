@@ -7,6 +7,12 @@ author:     "Anton De Martini"
 header-img: "img/dock.jpg"
 ---
 
-# Il meraviglio so mondo di loremipsum 
+# Il meraviglioso mondo di loremipsum 
 
 Che si possa dire o non dire, chissà. 
+
+    non fare le cose male
+
+## e la sottosuttare 
+
+`a casavatore`
