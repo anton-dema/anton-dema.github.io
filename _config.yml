@@ -1,6 +1,6 @@
 # Site settings
 title: Dema's Blog On Github
-header-img: https://dema.tv/wp-content/uploads/2014/10/tepee.jpg
+#header-img: "https://dema.tv/wp-content/uploads/2014/10/tepee.jpg"
 email: anton.demartini@gmail.com
 description: "A nice blogging experience on github, with Jekyll"
 baseurl: ""
