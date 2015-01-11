@@ -14,7 +14,7 @@ E devo dire che è una grande figata.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum ullamcorper eros vel commodo. Sed eget elementum nisi. Curabitur eu iaculis ipsum. Ut fermentum suscipit velit nec varius. In at turpis sodales, hendrerit est a, ultricies nulla. Aliquam quis nunc quam. Fusce in purus rutrum, ornare lorem vel, convallis ex. Integer ullamcorper tellus eget lacus condimentum, sed dignissim erat vestibulum. Donec imperdiet erat elit, eu molestie quam porttitor quis. Curabitur porta et nunc sed dignissim. Cras vitae sem in ligula sollicitudin molestie. Donec non viverra risus, sit amet laoreet massa. Cras in est auctor, eleifend dolor quis, vehicula magna. Fusce a euismod tellus, a porttitor diam. Proin bibendum malesuada purus a tincidunt. Cras elit lacus, scelerisque vitae leo eu, vulputate dapibus nibh.
 
-![immaginina a spezzare](img/post-sample-image.jpg)
+![immaginina a spezzare](/img/post-sample-image.jpg)
 
 Sed congue orci magna, blandit convallis quam scelerisque quis. Suspendisse id posuere dolor. Curabitur rutrum nibh nulla, quis vulputate diam elementum eget. Proin eget est eu risus egestas laoreet a non erat. Suspendisse egestas vehicula dui, eu tempus odio gravida ut. Etiam vel dui pulvinar, eleifend odio a, ultrices felis. Suspendisse in sodales dolor. Mauris blandit, magna at dictum mattis, magna velit vehicula ante, vitae accumsan eros dui a eros. Sed tincidunt, risus scelerisque mattis euismod, dui ipsum tincidunt nulla, sed gravida dui est sit amet urna.
 
