@@ -1,0 +1,27 @@
+---
+author: dema
+comments: true
+date: 2008-05-28 06:44:39+00:00
+layout: post
+slug: dematv
+title: Dema.tv
+wordpress_id: 214
+categories:
+- cambio
+- dema
+- dominio
+- tv
+tags:
+- cambio
+- dema
+- dominio
+- tv
+---
+
+[![](http://dema.tv/wp-content/uploads/2008/05/monoscopio1.jpg)](http://dema.tv/wp-content/uploads/2008/05/monoscopio1.jpg)
+
+No , non ho comprato la [Flip Ultra](http://www.theflip.com/products_flip_ultra.shtml) come il [Beggi ](http://www.andreabeggi.net/)e [Kurai ](http://kurai.eu/)e mi sono messo in testa di fare il citizen journalist . No , non mi candido a fare dirette fiume come [Delymyth](http://www.delymyth.net/) . No , non voglio fare rassegne stampa alla [Webgol](http://www.webgol.it/). No , non voglio fare insider blogging interviews come il professionalissimo [Luca Sartoni](http://www.lucasartoni.com/) .
+
+Solo che **l'unico dominio dema rimasto era il dot TV** ( assieme al dot org dot cn ). A dirla tutta avevo anche cercato la **via marocchina** con un dominio dot ma , ma il caos del registry magrebino , la mancanza di un whois attendibile e i prezzi estremamente variabili da reseller a reseller mi hanno fatto ripiegare verso il dominio dot TV.
+
+Quindi non appena i dns si saranno propagati , questo blog sarà raggiungibile alla url http://dema.tv , senza TV ma con i soliti post accrocchiati , pseudotecnici e senza una regolare cadenza.

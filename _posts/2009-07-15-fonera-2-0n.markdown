@@ -1,0 +1,52 @@
+---
+author: dema
+comments: true
+date: 2009-07-15 04:38:57+00:00
+layout: post
+slug: fonera-2-0n
+title: Fonera 2.0n
+wordpress_id: 879
+categories:
+- fon
+tags:
+- 802.11n
+- fon
+- fonera
+- fonera 2.0n
+- router
+- wifi
+---
+
+[![fonera2n](http://dema.tv/wp-content/uploads/2009/07/fonera2n1.jpg)](http://dema.tv/wp-content/uploads/2009/07/fonera2n1.jpg)
+
+Ieri è stata presentata la nuova Fonera 2.0n .
+
+Sarà in vendita presso il solito shop online di Fon e forse anche attraverso alcune catene di informatica a partire da Settembre.
+
+[![rearfonera 2](http://dema.tv/wp-content/uploads/2009/07/rearfonera-21.jpg)](http://dema.tv/wp-content/uploads/2009/07/rearfonera-21.jpg)
+
+Image credits [Brian Solis](http://www.flickr.com/photos/briansolis/3719717404/in/set-72157621295671433)
+
+Vediamo brevemente le sue caratteristiche :
+
+Processore più performante Ralink 300MHz 64Mb RAM
+
+Protocollo 802.11n
+
+4 porte ethernet
+
+Porta usb 2.0
+
+Hard switch per radio
+
+Firmware 2.2.6.0 con Youtube , Flickr , Picasa e Facebook uploader , Transmission torrent downloader , e samba file sharing.
+
+Prezzo previsto 79€.
+
+Non so veramente come valutare questa novità . Se da un lato spero che le caratteristiche hardware siano finalmente all'altezza dei big players , dall'altro mi domando come possa Fon competere commercialmente con colossi come Netgear o simili.
+
+Se infatti il firmware si rivelerà solido e l'hardware non verrà messo in ginocchio dalle molte funzioni avanzate introdotte , si potrebbe auspicarne l'adozione da parte degli utenti più smaliziati , anche non necessariamente interessati all'ormai scaduto movimento di wifi sharing.
+
+79 Euro comincia ad essere una cifra importante e ritengo che possa comprendere anche il necessario ricarico per ottenere un marginale profitto .
+
+In sostanza se proprio devo dire la verità , la scelta di Fon di reinventarsi come produttore hardware potrebbe essere una via per cercare di uscire dalla crisi iniziata già un anno fa.

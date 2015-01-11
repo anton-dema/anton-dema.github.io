@@ -1,0 +1,25 @@
+---
+author: dema
+comments: true
+date: 2007-10-17 08:07:48+00:00
+layout: post
+slug: nabaz-fon
+title: 'Nabaz-FON '
+wordpress_id: 125
+categories:
+- fon
+- geek
+- nabaztag
+tags:
+- fon
+- geek
+- nabaztag
+---
+
+![](http://dema.tv/wp-content/uploads/2007/10/1568881436_d05212ad77.jpg)
+
+Direttamente da [Elena ](http://www.delymyth.net),  fiera appartenente al [temuto](http://fullo.net) [geek](http://disordine.com) [terror](http://www.vincenzocaico.com/) [squad](http://gioxx.org) , che sabato scorso si è portata a casa come premio per la vittoria del Treasure Hunt wireless game,  l'ambitissimo [coniglio WIFI](http://nabaztag.com) , apprendo che per collegarlo alla Fonera , occorre cambiare la chiave WPA della wlan privata.
+
+Infatti di default la Fonera ha una chiave WPA di più di 10 caratteri e tutto questo non piace al coniglietto .
+
+Per ovviare al problema , occorre andare in  pannello di amministrazione e cambiare la chiave con una di 10 caratteri et voilà , il nabaztag si collegherà perfettamente alla vostra Fonera.

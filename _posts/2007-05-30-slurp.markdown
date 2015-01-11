@@ -1,0 +1,30 @@
+---
+author: dema
+comments: false
+date: 2007-05-30 06:18:55+00:00
+layout: post
+slug: slurp
+title: 'Slurp ! '
+wordpress_id: 61
+categories:
+- aircrack
+- blackbox
+- fon
+- fonera
+- load balancing
+- slurp
+- wardriving
+- wep
+- wifi
+- wpa
+---
+
+![](http://dema.tv/wp-content/uploads/2007/05/1453t.jpg)
+
+Sei antenne , collegate ad altrettante schede wifi minipci , una routerboard , una memoria di massa da 4gb e debian linux a far girare tutto l'ambaradan.
+
+Questo è il tool definitivo del wardriver che puo scannare tutto quello che viaggia per aria , aprire connessioni wep con aircrack , collegarsi a sei differenti reti wifi da convogliare in un canale solo con load balancing.
+
+Se dovessi metterci le mani sopra lo trasformerei subito in un super Fon hotspot , per installazioni temporanee ad alta concentrazione di traffico.
+
+Via [geektechnique.org ](http://geektechnique.org/projectlab/781/slurpr-the-mother-of-all-wardrive-boxes)

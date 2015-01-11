@@ -1,0 +1,62 @@
+---
+author: dema
+comments: true
+date: 2009-04-23 17:02:13+00:00
+layout: post
+slug: la-fonera-20
+title: 'La fonera 2.0 '
+wordpress_id: 724
+categories:
+- fon
+tags:
+- fon
+- fonera 2.0
+- wireless
+---
+
+[![fonera20](http://dema.tv/wp-content/uploads/2009/04/fonera201.jpg)](http://dema.tv/wp-content/uploads/2009/04/fonera201.jpg)
+
+La fonera 2.0 è pronta.
+
+Dopo un periodo di beta testing di circa 7 mesi il firmware è stato dichiarato stabile ed è quindi stato il via alle vendite.
+
+Tra le funzionalità salienti di questo nuovo gingillo wireless troviamo torrent downloader , flickr e picasa uploader , connettività 3G con chiavette HSDPA, filesharing di samba e tanto altro ancora.
+
+Il prezzo è di 49.50 Euros più spese di spedizione , tutto sommato in linea con altri apparati wireless simili.
+
+La cosa buffa è che la notizia è stata inviata da Martin Varsavsky in persona :P via mail a tutti i foneros , presumo nella lingua di appartenenza.
+
+
+<blockquote>
+
+> 
+> Caro Fonero,
+> 
+> 
+
+desidero farti personalmente sapere che è uscita la nuova Fonera 2.0.
+Il parere di Wired è che "si tratta di un fantastico mix di funzionalità,
+esattamente ciò che un router WiFi dovrebbe fare".  Cory Doctorow di
+BoingBoing invece sostiene che "è un router con le stesse funzionalità
+del miglior access point in commercio, a una frazione del prezzo e
+basato interamente su firmware libero".
+
+Cos'è la fonera 2.0? Oltre ad essere un social router che ti consente di
+condividere parte della tua connessione di casa con gli altri Fonero e
+di navigare gratis nei FON Spot di tutto il mondo, è un router che ti
+permette di scaricare torrent, file da Rapidshare e Megaupload, che  ti
+consente di effettuare l'upload dei tuoi video su Youtube, delle tue
+foto su Flickr , Facebook e Picasa, e tutto da solo. Fai tutte queste
+cose in un modo nuovo, che contribuisce al rispetto per l'ambiente.
+Lascia che sia la tua Fonera a trasferire file mentre il tuo PC esegue
+operazioni più importanti oppure è in giro con te.
+
+Se hai qualche suggerimento su nuove applicazioni che ti piacerebbe
+utilizzare nella Fonera 2.0, o se sei uno sviluppatore e desideri creare
+una nuova applicazione, non esitare a scrivermi. Puoi ordinare la tua
+Fonera [qui](https://fon-en.custhelp.com/rd?1=AvcA%7Ewq6Hv8SAQL7Gjwe%7EyL%7EJvkq%7E27%7E&2=277).
+
+Divertiti,
+
+Martin Varsavsky
+Chief Fonero</blockquote>

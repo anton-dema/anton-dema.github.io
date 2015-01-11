@@ -1,0 +1,67 @@
+---
+author: dema
+comments: true
+date: 2009-01-12 12:22:20+00:00
+layout: post
+slug: meizu-m8
+title: 'Meizu M8 '
+wordpress_id: 624
+categories:
+- recensione
+tags:
+- china
+- iphone clone
+- m8
+- meizu
+- smartphone
+- video
+---
+
+Ieri Alessandro mi ha riportato dalla Cina il telefonino Meizu M8 .
+[![meizu M8](http://dema.tv/wp-content/uploads/2009/01/3191204194_11c4868e4b.jpg)](http://www.flickr.com/photos/dema/3191204194/)
+
+E' a tutti gli effetti un clone dell'Apple iPhone che copia quasi integralmente il look esterno , l'interfaccia multitouch , gli accessori e il packaging .
+
+[![Meizu M8](http://dema.tv/wp-content/uploads/2009/01/3190374133_19805e6a0f.jpg)](http://www.flickr.com/photos/dema/3190374133/)
+
+A parte le similitudini esterne del package e dell'interfaccia , il cuore dell'M8 è Windows Ce 6.0 . Una vera schifezza a mio avviso anche se durante il  test le cose che doveva fare le ha fatte ed anche decentemente. Ecco una lista sintetica di quello che ho provato .
+
+
+
+	
+  * **Chiamate (è un telefono dopo tutto no?)
+**Ho sfilato la SIM dal mio Blackberry TIM e l'ho inserita nell'M8 . La rete è stata subito riconosciuta . Ho importato i contatti dalla SIM alla memoria del telefono , in quanto la rubrica non leggeva i contatti memorizzati direttamente nella SIM stessa. Grazie ad una rubrica dall'aspetto perfettamente identico a quello dell'iPhone ho recuperato un numero e ho effettuato una chiamata da 7-8 minuti con una qualità d'ascolto accettabile , priva di buzz GSM anche se dai toni un po' scatolati.
+Per ricancellare la rubrica purtroppo anche un total reset non funziona e quindi l'unica opzione è cancellare le voci una ad una.
+
+	
+  * **Collegamenti**
+Il telefono è provvisto di una presa miniUSB standard per la ricarica della batteria e lo scambio dati con un computer . Il telefono viene visto come una memoria di massa !! Aggiungere contenuti è una questione di drag and drop. Esiste anche una presa jack 3.5 standard dove infilare gli auricolari forniti di serie , ovviamente dotati di microfono per le  conversazioni a mani libere.
+
+	
+  * **Funzioni**
+_**Calendario :**_ Look identico in tutto e per tutto all'iPhone . Le opzioni di sincronia credo possano essere fatte con un software per windows che però non ho testato per mancanza di macchine con software microsoft a bordo.
+_**Browser :**_ Dovrebbe essere un Opera Mini , almeno questo mi è sembrato capire dalle schermate di errore. Sì perché il browser è una patacca colossale. Lento , non usabile per via della disastrosa gestione della gesture per lo zoom . E sto parlando della connessione Wifi . E' chiaro che con il solo EDGE non sarà possibile sfogliare alcun contenuto web.
+**_Email :_** non ho avuto modo di provarla , ma nelle impostazioni c'è solo l'opzione per il protocollo POP3 .
+**_Player Musicale:_** Rapidissima prova ; collegato al mio desktop ubuntu , riconosciuto come unità di massa , drag and drop di una canzone nella directory Music , scollegato e paff!  creata la playlist e la musica suona , anche abbastanza bene. I controlli del volume non sono molto accurati anche se si riesce ad ottenere un volume molto alto dagli altoparlanti . Non ho provato le cuffie in dotazione.
+**_Player Video : _**Anche qui semplicemente appena trascinato il file avi nella directory video si puo' cominciare la visione . Viene creata automaticamente una playlist video con le miniature del contenuto. Purtroppo con un divx standard (ho caricato una puntata di Big Bang Theory ) la visione risulta un po' scattosa per la non sufficiente potenza del processore.
+**_Camera: _**Un sensore da 3 megapixel ed un'ottica inesistente , come la maggiorparte degli smartphone , permette di catturare immagini di discreta qualità . E' possibile anche catturare video con risoluzione fino a 640x480 .
+**_Messaggi :_** Non gli ho testati in quanto sono profondamente avverso agli SMS. Dovrebbero anche essere supportati i meravigliosi MMS
+Completano le funzioni un file manager , un lettore di ebook ?? , calcolatrice , editor di note e orologio multi zone.
+
+	
+  * **Batteria**
+Da 1200 mAh rimuovibile , non ho idea di quanto possa durare con smanettamenti vari
+
+	
+  * **Prezzo **
+2500 RMB pari a 270 Euro al momento in cui scrivo ( Lo Yuan si sta ogni giorno rivalutando)
+
+	
+  * **Conclusioni **
+Affrettate poiché lo devo consegnare a [Stefano ](http://blog.quintarelli.it/)e non ho tempo per testarlo più a fondo . Un interessante pezzo di hardware che riesce a fare tutto quello che dichiara e lo fa anche in maniera abbastanza buona. Verrà a breve rilasciato un SDK per lo sviluppo di applicazioni di terze parti . La risorsa per saperne di più è il forum di [MeizuMe](http://www.meizume.com/forums.php) .
+Se me la sento di consigliarvelo ? Francamente credo proprio di no.
+
+
+Ieri ho anche girato un piccolo video che illustra al volo le caratteristiche del prodotto.
+
+[youtube=http://www.youtube.com/watch?v=dX0lPZeNZoc]

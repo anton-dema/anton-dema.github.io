@@ -1,0 +1,93 @@
+---
+author: dema
+comments: true
+date: 2010-02-05 09:10:41+00:00
+layout: post
+slug: nerdpad
+title: 'NerdPad '
+wordpress_id: 975
+categories:
+- hardware
+tags:
+- elettronica
+- ipad
+- market
+- tablet
+---
+
+Sono in contatto con un amico che ha investito in una fabbrica di Shenzhen di device elettronici.
+
+Per il momento niente di straordinario, solo un player multimediale portatile con touch screen ultra economico.
+
+L'altro giorno però mi è balzata in testa la malsana idea di proporgli il concept per un Pad, visto che l'aspettativa introdotta da Apple è alta e che le prime impressioni hanno evidenziato alcune mancanze fondamentali per un felice utilizzo.
+
+Qui di seguito vi incollo il testo della mia mail a Maurizio:
+
+
+
+<blockquote>> Ciao Anton,
+
+Ciao Mau!
+
+> Sorry for the late reply, have been a bit preoccupied. I will try and look
+> for something similar to what you have recommended, should be relatively
+> easy in China, everyone copies eachother! haha...
+
+True, and by the way, I think that the exact copy is really on the way. But in my opinion to copy exactly the iPad isn't the key for a succesful device.
+
+The point is :  iPad as Apple previewed last week has some flaws which may disappoint end user. One of the major is the lack of freedom. IPad will run, as good old Apple practice, only appstore applications and won't have a multitasking environment. In other words the end user won't be the real owner of its own device.
+Probably, after one week from it's launch, the iPad will be jailbroken, but this is another matter.
+
+Here comes the free alternative, so here's the deal:
+
+Let's call it : The NerdPad
+
+- 8.7 inches Oled LCD with capacitive touch screen
+- ARM processor architecture
+- 16 GB SSD mass storage
+- 802.11 B/G/N wireless
+- 3G baseband
+- 2 X 5 Megapixels webcam (front + rear)
+- Connectors : ethernet , HDMI , 4 USB ports , audio
+- 1400 MAh battery
+- 1.5 pounds weight
+- 0.6 inches thickness
+- extimated operating time 6 hours
+
+I think that such piece of hardware it's already in the skills of mid-end Shenzhen electronic factories, the focus it's on software.
+
+The build of Chrome OS should be stable within two months, I think,but since source code is available a team of developpers could try to compile and fit in the device.
+
+> If you have any other recommendations please feel free to send me more
+> information or new products you think will work in Italy or anywhere. I
+> will try go into china in the next 2 weeks, cause i dont think they will be
+> that quick at copying IPAD.
+
+I'm contacting my social base to have feedbacks and ideas ( and I'msure they will flow like a river) and get back to you ASAP
+
+> I am currently importing goods to South Africa, very simple and small
+> operations between friends. Hopefully it will become big enough and I can
+> progress from there. Has Bruno showed you what I am doing? They are sort of
+> MP5 players with numerous codecs built in. Ill send you some fotos if you
+> want. I buy them for cheap and sell them for nearly double in South Africa!
+
+I saw it in the website. Unfortunately the market is overwhelmed ofthis kind of devices and I'm afraid that european market won't give apositive feedback on a yet another multimedia player.
+
+> Anyways Anton we will talk soon!
+
+Longing to see you soon, for real, maybe in HK. I miss my trips to fareast and, weird to say, I miss China :-)
+
+> Ciao!
+> Maurizio
+
+Ciao ragazzo!</blockquote>
+
+
+
+Ora in questa follia vorrei tirare dentro tutti i lettori del blog.
+
+Come vorreste fosse il vostro NerdPad. Indicatemi nei commenti quello che vorreste implementare in un device simile e io raccoglierò ed invierò i suggerimenti all'amico Maurizio.
+
+Sì, lo so, tutti i colossi dell'elettronica Cino-Taiwanese sono sul pezzo mentre sto scrivendo, ma provarci non costa niente e sognare ancora meno.
+
+Che ne dite?

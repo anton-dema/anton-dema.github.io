@@ -1,0 +1,28 @@
+---
+author: dema
+comments: true
+date: 2008-09-19 13:23:46+00:00
+layout: post
+slug: revenge
+title: 'Revenge '
+wordpress_id: 376
+categories:
+- storie
+tags:
+- automobili
+- computer
+- meccanica
+- pc
+---
+
+Quando compii 18 anni e mi comprai con i risparmi accumulati una Fiat Uno 55 di quarta mano , il babbo cominciò a darmi lezioni di guida , come ogni buon padre usava fare con il figlio nei mitici anni 80 (ora non c'è tempo e vieni iscritto a scuola guida , altro che esame da privatista ). Ecco , io sono sempre stato negato in tutte le cose meccaniche , pratiche e manuali e abitando a Venezia , vi lascio immaginare quanto fosse per me ostico guidare un'automobile.
+
+Ebbene mio padre , autista di professione , patentato per quasi tutto quello che si muoveva per mezzo di un motore a scoppio , camion , automobile o motoscafo che fosse , non riusciva a fare pace con la mia inettitudine verso la guida.
+
+Un giorno mi disse che ero abbastanza intelligente e mi suggerì di pensare a tutto quello che provocava il movimento della macchina. Partendo dalla pressione sull'acceleratore che mediante una leva azionava una valvola che faceva confluire una miscela di aria e carburante nella camera di esplosione. Esplosione innescata da una candela a sua volta messa in sincronia da un alternatore , un perfetto equilibrio tra meccanica ed elettricità . Mi diceva che se fossi riuscito a comprendere nel profondo la logica di funzionamento del motore , sarei riuscito ad essere un ottimo guidatore.
+
+Io potevo anche capire , in parte , la logica di funzionamento di un motore , ma nonostante questo continuavo imperterrito a grattare le marce , sfollare e rilasciare in maniera dolorosamente brusca la frizione.
+
+Ad agosto di quest'anno mio padre mi ha chiesto se gli fornivo un computer con accesso alla rete. Gli ho portato il mio asus EEEpc con modem hsdpa . In più gli ho detto che per essere un buon utilizzatore di computer bisogna comprendere nel profondo la logica del funzionamento . Gli ho detto di pensare ai milioni di cervelli che hanno speso il loro tempo a scrivere del codice per permettere che ad ogni azione corrispondesse un effetto ben preciso e determinato , al flusso di elettroni che passando attraverso dei microcircuiti trasformano la corrente elettrica in informazione.
+
+Io sono rimasto un mediocre guidatore e lui un mediocre utilizzatore di computer.

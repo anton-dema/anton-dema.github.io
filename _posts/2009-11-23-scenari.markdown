@@ -1,0 +1,62 @@
+---
+author: dema
+comments: true
+date: 2009-11-23 03:02:23+00:00
+layout: post
+slug: scenari
+title: 'Scenari '
+wordpress_id: 944
+categories:
+- riflessioni
+tags:
+- amd
+- atom
+- chromiumOS
+- intel
+- led
+- netbook
+- nettop
+- notebook
+- nvidia
+- server
+- ubuntu
+- windows 7
+---
+
+Novembre 2010.
+
+
+### Netbook
+
+
+Schermo LED 12" ,  HD SSD 48 GB , intel Atom dual core , Nvidia ION , 2 Gb RAM.
+
+OS: ChromiumOS o Jolicloud
+
+
+### Nettop
+
+
+﻿﻿HD sata 1Tb , intel Atom dual core , Nvidia ION , 4 Gb Ram.
+
+OS: Mythbuntu
+
+
+### Notebook
+
+
+Schermo LED 15.6"  , HD sata 500 Gb , intel centrino / amd turion X2 , ATI mobility radeon HD , 4 Gb RAM.
+
+OS: Windows 7 home 64 bit o Ubuntu 10.10
+
+
+### Desktop:
+
+
+Estinti 
+
+
+### Server :
+
+
+hypervisor  ESX o XEN . Interoperabilità con servizi cloud per una completa trasparenza tra macchine hostate su SAN locali o su server remoti.

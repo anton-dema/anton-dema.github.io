@@ -1,0 +1,26 @@
+---
+author: dema
+comments: true
+date: 2009-02-03 08:49:53+00:00
+layout: post
+slug: cresco
+title: 'Cresco '
+wordpress_id: 649
+categories:
+- blog
+tags:
+- caratteri
+- css
+- dimensione
+- vista
+---
+
+Il tempo è tiranno e la rete rimane un po' distante ultimamente.
+
+Comunque un' occhiata fugace alle dinamiche di rete non mi scordo mai di darla . Su Friendfeed mi ha colpito una [discussione sulla dimensione dei caratteri](http://friendfeed.com/e/122835ca-6615-4870-aef5-dc5015aba902/continuo-a-usare-mela-per-aumentare-i-caratteri/) delle pagine web e sul decremento delle capacità visive come conseguenza dell'avanzare dell'età .
+
+Insomma per farla breve ho riscontrato che questo blog ha sempre avuto dei caratteri piccini , non piccolissimi come da altre parti , ma insomma non troppo agevoli per la lettura.
+
+Per porre rimedio ho cambiato quattro valori al foglio di stile e l'ho zoomato.
+
+Ora posso leggere meglio le cazzate che ci scrivo :)

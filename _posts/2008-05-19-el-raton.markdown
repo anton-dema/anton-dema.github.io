@@ -1,0 +1,23 @@
+---
+author: dema
+comments: true
+date: 2008-05-19 07:04:24+00:00
+layout: post
+slug: el-raton
+title: 'El raton '
+wordpress_id: 209
+categories:
+- beta tester
+- fon
+- fonera
+tags:
+- beta tester
+- fon
+- fonera
+---
+
+[![](http://dema.tv/wp-content/uploads/2008/05/fonera_rats1.png)](http://dema.tv/wp-content/uploads/2008/05/fonera_rats1.png)
+
+E' un po' di tempo che non gioco più con le fonere . La settimana scorsa è stata rilasciata ai beta tester la versione 1.1.2-r1 beta del firmware.
+
+Io non l'ho ancora installata , ma [Steven Leeman](http://blog.fon.com/nl/) della comunità fiamminga di Fon l'ha già provata. Per ora i cambiamenti salienti sono una bella pantegana nel [motd ](http://en.wikipedia.org/wiki/MOTD)di login :)

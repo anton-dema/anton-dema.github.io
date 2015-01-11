@@ -1,0 +1,21 @@
+---
+author: dema
+comments: true
+date: 2009-02-25 09:36:12+00:00
+layout: post
+slug: uptime
+title: 'Uptime '
+wordpress_id: 671
+categories:
+- cazzatine
+tags:
+- p2p
+- streaming
+- uptime
+---
+
+Record personale del mio wrt54-g Linksys
+
+![uptime](http://dema.tv/wp-content/uploads/2009/02/uptime1.jpg)
+
+Con medio uso da parte mia di P2P , streaming verso il televisore e Marchino , il mio dirimpettaio ,  che fa un uso discreto della connessione ogni giorno .

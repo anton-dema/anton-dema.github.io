@@ -1,0 +1,19 @@
+---
+author: dema
+comments: true
+date: 2008-12-12 07:39:04+00:00
+layout: post
+slug: openbsd
+title: 'OpenBsd '
+wordpress_id: 574
+categories:
+- workshop
+tags:
+- mayhem
+- openbsd
+- real life security
+---
+
+![puffy](http://dema.tv/wp-content/uploads/2008/12/puffy1.gif)
+
+Ieri dopo l'intervento di [Mayhem](http://www.linkedin.com/in/mayhem) al [Real Life Security](http://www.atsystem.org/en/news-it/2008/11/20/Real+Life+Security) mi è venuta una voglia matta di usare OpenBsd :P

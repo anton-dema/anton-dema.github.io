@@ -1,0 +1,86 @@
+---
+author: dema
+comments: true
+date: 2010-01-27 09:48:11+00:00
+layout: post
+slug: a-nfami
+title: 'A ''Nfami! '
+wordpress_id: 965
+categories:
+- rete
+tags:
+- haiti
+- phishing
+- poste italiane
+- scam
+- truffa
+---
+
+Ricevuto stamane e prontamente filtrato dal mio spamassassin :
+
+
+<blockquote>Gentile cliente,
+
+Poste Italiane intende fornire il proprio sostegno ai terremotati dell'Haiti con diverse iniziative.
+
+In primo luogo la società ha annunciato che devolverà interamente al fondo di solidarietà le commissioni sui bollettini del conto corrente 10 40 0000 intestato a "Poste Italiane per l'Haiti".
+
+Ciò significa che per ogni cliente che effettua una donazione a favore delle popolazioni colpite dalla calamità, le Poste doneranno alla stessa causa 1,10 Euro.
+
+Avanti Italia per l'Haiti! Siamo Campioni del mondo e possiamo fare molto per l'Haiti. Avanti Fratelli e Sorelle!!!
+
+Accedi ai servizi online per fare una donazione di 1 Euro
+
+Cordiali Saluti.
+Posteitaliane</blockquote>
+
+
+Come potete vedere è scritto in perfetto italiano, ma soprattutto fa leva sul sentimento di solidarietà per la tragedia di Haiti.
+
+Il link che ho omesso, ovviamente, punta ad una sottodirectory di stitchesfla.com, un sito americano di ricami e cucirini.
+
+Il registrant è il seguente:
+
+
+<blockquote>
+
+> 
+> Registrant:
+> 
+> 
+
+> 
+> Domains by Proxy, Inc.
+> 
+> 
+
+> 
+> DomainsByProxy.com
+> 
+> 
+
+> 
+> 15111 N. Hayden Rd., Ste 160, PMB 353
+> 
+> 
+
+> 
+> Scottsdale, Arizona 85260
+> 
+> 
+
+> 
+> United States
+> 
+> </blockquote>
+
+
+Molto probabilmente il sito è stato compromesso per ospitare la frode.
+
+Insomma, il phishing ormai è diventato pane quotidiano, ma il livello di sofisticatezza in questo caso mi ha particolarmente colpito per due ragioni.
+
+La prima è ovviamente una grammatica ineccepibile, macchiata solo da quel "l'Haiti", la seconda è una attenta ricerca psicologica sui soggetti sensibili allo scam.
+
+C'è un chiaro richiamo alle pulsioni passionarie, quali il tifo calcistico, l'utopia dell'unità per il bene comune e sta tutto in quel _"Avanti Italia per l'Haiti! Siamo Campioni del mondo e possiamo fare molto per l'Haiti. Avanti Fratelli e Sorelle!!! "_
+
+Avanti  'Nfami, le patrie galere sarebbero liete di ospitarvi, schifosi!
