@@ -5,9 +5,7 @@ date: 2014-12-09 13:05:46+00:00
 layout: post
 slug: robert-glasper-le-code-lufficio-postale
 title: Robert Glasper, le code, l'ufficio postale
-wordpress_id: 2629
-categories:
-- personal
+header-img: img/selfie.jpg
 ---
 
 Stamane dovevo ritirare una raccomandata all'ufficio postale.  
