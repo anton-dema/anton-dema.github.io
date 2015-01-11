@@ -28,10 +28,6 @@ layout: default
 				{{ content }}
 
                 <hr>
-  <span class="post-date">Tags:
-    {% assign page_tags = page.tags | sort %}
-    {% include page_tags_list %}
-  </span>
 {% include disqus.html %}
                 <ul class="pager">
                     {% if page.previous.url %}
