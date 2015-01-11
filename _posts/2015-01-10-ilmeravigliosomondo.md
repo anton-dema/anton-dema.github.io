@@ -5,7 +5,10 @@ subtitle:   "è proprio meraviglioso"
 date:       2015-01-10 23:00:34
 author:     "Anton De Martini"
 header-img: "img/cropped-puppets.jpg"
-tags: post primo lorem
+tags: 
+- post 
+- primo 
+- lorem
 ---
 
 # Il mio primo blog su github  
