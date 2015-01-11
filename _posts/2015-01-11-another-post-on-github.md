@@ -2,7 +2,7 @@
 layout:     post
 title:      "Second post is always better "
 subtitle:   "or, at least I think so" 
-date:       2015-01-11
+date:       2015-01-12
 author:     "Anton De Martini"
 header-img: "img/cropped-puppets.jpg"
 tags: 
