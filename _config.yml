@@ -1,10 +1,10 @@
 # Site settings
-title: Anton Sandox
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "hello"
+title: Dema's Blog On Github
+header-img: https://dema.tv/wp-content/uploads/2014/10/tepee.jpg
+email: anton.demartini@gmail.com
+description: "A nice blogging experience on github, with Jekyll"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://anton-dema.github.io"
 twitter_username: dema
 github_username:  anton-dema
 facebook_username:  antonangelo
