@@ -8,6 +8,8 @@ url: "http://anton-dema.github.io"
 twitter_username: dema
 github_username:  anton-dema
 facebook_username:  antonangelo
+layout: default
+comments: true
 
 # Build settings
 markdown: kramdown
