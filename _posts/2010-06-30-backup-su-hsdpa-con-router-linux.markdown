@@ -29,23 +29,23 @@ Il meccanismo si basa su quattro script chiamati **pingeth1, killpingeth1, pingp
 
 Lo script principale è **pingeth1 **
 
-``` bash
-#/bin/bash
-ping -I eth1 -c3 151.99.29.203 > result.tst;
-ALERT=`grep -c "3 received" result.tst`
-if [ $ALERT = 1 ] ; then
-echo "ok"
-else
-wvdial &
-sleep 10
-/usr/local/bin/killpingeth1
-/sbin/shorewall clear
-/sbin/iptables  -t  nat  -A  POSTROUTING  -o  ppp0 -j  MASQUERADE
-/sbin/route add default gw 10.64.64.64 dev ppp0
-fi
-rm result.tst
-exit 0
-```
+
+    #/bin/bash
+    ping -I eth1 -c3 151.99.29.203 > result.tst;
+    ALERT=`grep -c "3 received" result.tst`
+    if [ $ALERT = 1 ] ; then
+    echo "ok"
+    else
+    wvdial &
+    sleep 10
+    /usr/local/bin/killpingeth1
+    /sbin/shorewall clear
+    /sbin/iptables  -t  nat  -A  POSTROUTING  -o  ppp0 -j  MASQUERADE
+    /sbin/route add default gw 10.64.64.64 dev ppp0
+    fi
+    rm result.tst
+    exit 0
+
 
 Esaminiamo nel dettaglio quanto sopra:
 
@@ -66,24 +66,22 @@ Viene infine rimosso il file temporaneo result.tst.
 
 Pingeth1 va eseguito ogni minuto da cron, per cui occorre creare un nuovo cronjob
 
-``` 
-crontab -e
-*/1 * * * * /usr/local/bin/pingeth1 >/dev/null
-```
+
+    crontab -e
+    */1 * * * * /usr/local/bin/pingeth1 >/dev/null
+
 
 Esaminiamo ora lo script **killpingeth1**
 
-```
-#/bin/bash
-crontab -l >CRON_TEMP
-awk '$0!~/pingeth1/ { print $0 }' CRON_TEMP >CRON_NEW
-echo "*/1 * * * * /root/pingppp0 >/dev/null" >>CRON_NEW
-crontab CRON_NEW
-/etc/init.d/cron restart
-rm CRON_TEMP;
-rm CRON_NEW;
-exit 0
-```
+    #/bin/bash
+    crontab -l >CRON_TEMP
+    awk '$0!~/pingeth1/ { print $0 }' CRON_TEMP >CRON_NEW
+    echo "*/1 * * * * /root/pingppp0 >/dev/null" >>CRON_NEW
+    crontab CRON_NEW
+    /etc/init.d/cron restart
+    rm CRON_TEMP;
+    rm CRON_NEW;
+    exit 0
 
 La funzione primaria di killpingeth1 è quella di cambiare lo schedulatore, rimuovendo la programmazione di pingeth1 ed inserendo la nuova programmazione di pingppp0 (che vedremo più sotto).
 
@@ -101,23 +99,21 @@ Il controllo dell'interfaccia eth1 viene demandato allo script pingppp0 che abbi
 
 Vediamolo in dettaglio
 
-```
-#/bin/bash
-/sbin/route del default gw 192.168.0.1 dev eth1
-/sbin/route add default gw 192.168.0.1 dev eth1
-ping -I eth1 -c 3 151.99.29.203 > result.tst;
-ALERT=`grep -c "3 received" result.tst`
-if [ $ALERT = 1 ] ; then
-killall wvdial
-/usr/local/bin/killpingppp0
-/sbin/shorewall restart
-else
-echo "ancora su linea backup"
-/sbin/route del default gw 192.168.0.1 dev eth1
-fi
-rm result.tst
-exit 0
-```
+    #/bin/bash
+    /sbin/route del default gw 192.168.0.1 dev eth1
+    /sbin/route add default gw 192.168.0.1 dev eth1
+    ping -I eth1 -c 3 151.99.29.203 > result.tst;
+    ALERT=`grep -c "3 received" result.tst`
+    if [ $ALERT = 1 ] ; then
+    killall wvdial
+    /usr/local/bin/killpingppp0
+    /sbin/shorewall restart
+    else
+    echo "ancora su linea backup"
+    /sbin/route del default gw 192.168.0.1 dev eth1
+    fi
+    rm result.tst
+    exit 0
 
 Lo script pingppp0 viene eseguito ogni minuto e compie la seguente routine:
 
@@ -139,17 +135,15 @@ Rimane da prendere in esame l'ultimo script killpingppp0 che si prende cura di r
 
 Ecco lo script:
 
-```
-#/bin/bash
-crontab -l >CRON_TEMP
-awk '$0!~/pingppp0/ { print $0 }' CRON_TEMP >CRON_NEW
-echo "*/1 * * * * /root/pingeth1>/dev/null" >>CRON_NEW
-crontab CRON_NEW
-/etc/init.d/cron restart
-rm CRON_TEMP
-rm CRON_NEW
-exit 0
-```
+    #/bin/bash
+    crontab -l >CRON_TEMP
+    awk '$0!~/pingppp0/ { print $0 }' CRON_TEMP >CRON_NEW
+    echo "*/1 * * * * /root/pingeth1>/dev/null" >>CRON_NEW
+    crontab CRON_NEW
+    /etc/init.d/cron restart
+    rm CRON_TEMP
+    rm CRON_NEW
+    exit 0
 
 Lo script è del tutto analogo a killpingeth1 e quindi esegue nell'ordine i seguenti passaggi:
 
