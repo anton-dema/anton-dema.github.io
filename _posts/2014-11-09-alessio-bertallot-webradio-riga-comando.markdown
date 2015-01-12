@@ -6,8 +6,7 @@ layout: post
 slug: alessio-bertallot-webradio-riga-comando
 title: Alessio Bertallot, la webradio e la riga di comando.
 wordpress_id: 2614
-categories:
-- radio
+header-img: img/bertallot.jpg
 ---
 
 A me piace molto la nuova idea di Alessio Bertallot. La disintermediazione totale dai media mainstream, l'affidamento alla diffusione via web dei contenuti che una persona ha da proporre.
@@ -30,8 +29,8 @@ Per prima cosa crea un alias al tuo _.zshrc_
 
 
     
-    <code>echo "alias alessio='mplayer http://dinky.do/tP'" >> ~/.zshrc ¹
-    </code>
+    echo "alias alessio='mplayer http://dinky.do/tP'" >> ~/.zshrc ¹
+    
 
 
 
