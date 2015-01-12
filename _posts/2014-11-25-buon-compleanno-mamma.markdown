@@ -6,6 +6,7 @@ layout: post
 slug: buon-compleanno-mamma
 title: Buon Compleanno Mamma
 wordpress_id: 2622
+header-img: img/home-bg.jpg
 ---
 
 ![mum](/img/mum.jpg)
