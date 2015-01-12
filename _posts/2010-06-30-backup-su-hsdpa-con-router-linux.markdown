@@ -29,7 +29,7 @@ Il meccanismo si basa su quattro script chiamati **pingeth1, killpingeth1, pingp
 
 Lo script principale è **pingeth1 **
 
-[sourcecode language="bash"]
+``` bash
 #/bin/bash
 ping -I eth1 -c3 151.99.29.203 > result.tst;
 ALERT=`grep -c "3 received" result.tst`
@@ -44,7 +44,8 @@ sleep 10
 /sbin/route add default gw 10.64.64.64 dev ppp0
 fi
 rm result.tst
-exit 0[/sourcecode]
+exit 0
+```
 
 Esaminiamo nel dettaglio quanto sopra:
 
@@ -65,13 +66,14 @@ Viene infine rimosso il file temporaneo result.tst.
 
 Pingeth1 va eseguito ogni minuto da cron, per cui occorre creare un nuovo cronjob
 
-[sourcecode language="bash"]
+``` 
 crontab -e
-*/1 * * * * /usr/local/bin/pingeth1 >/dev/null[/sourcecode]
+*/1 * * * * /usr/local/bin/pingeth1 >/dev/null
+```
 
 Esaminiamo ora lo script **killpingeth1**
 
-[sourcecode language="bash"]
+```
 #/bin/bash
 crontab -l >CRON_TEMP
 awk '$0!~/pingeth1/ { print $0 }' CRON_TEMP >CRON_NEW
@@ -80,7 +82,8 @@ crontab CRON_NEW
 /etc/init.d/cron restart
 rm CRON_TEMP;
 rm CRON_NEW;
-exit 0[/sourcecode]
+exit 0
+```
 
 La funzione primaria di killpingeth1 è quella di cambiare lo schedulatore, rimuovendo la programmazione di pingeth1 ed inserendo la nuova programmazione di pingppp0 (che vedremo più sotto).
 
@@ -98,7 +101,7 @@ Il controllo dell'interfaccia eth1 viene demandato allo script pingppp0 che abbi
 
 Vediamolo in dettaglio
 
-[sourcecode language="bash"]
+```
 #/bin/bash
 /sbin/route del default gw 192.168.0.1 dev eth1
 /sbin/route add default gw 192.168.0.1 dev eth1
@@ -113,7 +116,8 @@ echo "ancora su linea backup"
 /sbin/route del default gw 192.168.0.1 dev eth1
 fi
 rm result.tst
-exit 0[/sourcecode]
+exit 0
+```
 
 Lo script pingppp0 viene eseguito ogni minuto e compie la seguente routine:
 
@@ -135,7 +139,7 @@ Rimane da prendere in esame l'ultimo script killpingppp0 che si prende cura di r
 
 Ecco lo script:
 
-[sourcecode language="bash"]
+```
 #/bin/bash
 crontab -l >CRON_TEMP
 awk '$0!~/pingppp0/ { print $0 }' CRON_TEMP >CRON_NEW
@@ -144,7 +148,8 @@ crontab CRON_NEW
 /etc/init.d/cron restart
 rm CRON_TEMP
 rm CRON_NEW
-exit 0[/sourcecode]
+exit 0
+```
 
 Lo script è del tutto analogo a killpingeth1 e quindi esegue nell'ordine i seguenti passaggi:
 
