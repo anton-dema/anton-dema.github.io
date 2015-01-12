@@ -6,8 +6,7 @@ layout: post
 slug: inviare-email-shell-gmail
 title: 'Inviare email da shell con Gmail '
 wordpress_id: 2545
-categories:
-- pilloline
+header-img: img/terminale.jpg
 tags:
 - gmail
 - mail
