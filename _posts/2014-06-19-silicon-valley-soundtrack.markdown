@@ -6,7 +6,8 @@ layout: post
 slug: silicon-valley-soundtrack
 title: 'Silicon Valley Soundtrack '
 wordpress_id: 2534
-categories:
+header-img: img/sv.jpg
+tags:
 - series
 ---
 
