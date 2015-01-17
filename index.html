@@ -33,7 +33,7 @@ layout: page
                         {{ post.date | date: "%Y" }}
 </div>
 <hr>
-{{ post.content | strip_html | truncatewords: 50  }}
+{{ post.content | strip_html | truncatewords: 100  }}
 {% endfor %}
 
 <!-- Pager -->
