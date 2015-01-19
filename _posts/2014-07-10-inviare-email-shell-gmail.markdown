@@ -13,19 +13,19 @@ Pillolina da lame sysadmin.
 
 Per inviare una mail con shell con mailutils, openssl e Gmail:
 
--. Creare la directory in home che conterrà i certificati:
+Creare la directory in home che conterrà i certificati:
 
     $ mkdir ~/.certs 
     $ certutil -N -d ~/.certs
 
--. Importare il certificato di gmail:
+Importare il certificato di gmail:
     
 
     $ echo -n | openssl s_client -connect smtp.gmail.com:465 | sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' > ~/.certs/gmail.crt
     $ certutil -A -n "Google Internet Authority" -t "C,," -d ~/.certs -i ~/.certs/gmail.crt
 
 
--. Editare il file /etc/mail.rc ed aggiungere il profilo gmail da invocare con il comando mailx -A.  
+Editare il file /etc/mail.rc ed aggiungere il profilo gmail da invocare con il comando mailx -A.  
 
 Inserire alla fine del file:
 
@@ -41,7 +41,7 @@ Inserire alla fine del file:
     set nss-config-dir=/home/myhome/.certs
     }
 
--. Inviare email da script o shell come di consueto, avendo cura di indicare come flag del comando mail -A gmail.
+Inviare email da script o shell come di consueto, avendo cura di indicare come flag del comando mail -A gmail.
 Quindi la riga di comando dovrebbe risultare come segue:
 
 
