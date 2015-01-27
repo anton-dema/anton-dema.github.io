@@ -14,5 +14,5 @@ Dopo un periodo nel quale Linus Torvalds è stato sempre più (a ragione?) indic
 
 Certo è che dopo quanto ha dichiarato al [LinuxConfAU](1), ossia che a lui della gente frega un cazzo, l'unica cosa che gli sta a cuore è la buona tecnologia e il kernel,  questa gag della macchina del caffè rotta e nessuno che viene a ripararla nella New York piegata dal blizzard, è una trollata al limite del genio.  
 
-[1]: [http://arstechnica.com/business/2015/01/linus-torvalds-on-why-he-isnt-nice-i-dont-care-about-you/]
-[2]: [http://linux.conf.au/programme/keynotes]
+[1]: http://arstechnica.com/business/2015/01/linus-torvalds-on-why-he-isnt-nice-i-dont-care-about-you/
+[2]: http://linux.conf.au/programme/keynotes
