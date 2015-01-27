@@ -11,5 +11,4 @@ wordpress_id: 2461
 Senza niente, un post via l'altro.
 Il problema è averci qualche cosa da scrivere, qui dentro.
 
-Questo piccolo edit, per vedere se veramente il feed viene inviato in push a pushsubhubbub
 
