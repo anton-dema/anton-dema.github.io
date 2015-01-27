@@ -17,6 +17,7 @@ tags:
 - linux
 ---
 
+.Dot.
 Scrivo questa guida passo passo per installare cyanogenmod 10.1 su Nexus 7, come promemoria, spero omnicomprensivo, dal momento che su internet non ho trovato una spiegazione chiara ed esaustiva, almeno in lingua italiana.
 
 La guida presuppone che venga usato linux come sistema operativo per procedere allo sblocco del bootloader e android-sdk come unico tool necessario.
