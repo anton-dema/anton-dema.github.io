@@ -1,16 +1,18 @@
 ---
-title: Le selezioni su inoreader
-author: The Dema
+title: C'è poi Linus che trolla
+author: Dema
 layout: post
-tags: blog feed inoreader
-header-img: img/post-bg-06.jpg
+header-img: 
 ---
-![Anton De martini broadcast feed on inoreader](/img/inoreader.jpg) 
+Dopo un periodo nel quale Linus Torvalds è stato sempre più (a ragione?) indicato dalla community come un dito in culo, ecco che si diverte a trollare un bel po' di gente su G+ 
 
-Sempre per il ciclo _ritorno alle origini_, ho riattivato il feed reader, e rimesso in campo la buona pratica di condividere i post che trovo interessanti. 
-In questo modo, anche grazie ai _bundles_ si può avere un buono spunto di lettura, se siete irrimediabilmente malati, come me.  
-Potete raggiungere il [feed qui][1] 
+<!-- Place this tag in your head or just before your close body tag. -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
+<!-- Place this tag where you want the widget to render. -->
+<div class="g-post" data-href="https://plus.google.com/102150693225130002912/posts/RzSZFYWn7sX"></div>
 
+Certo è che dopo quanto ha dichiarato al [LinuxConfAU](1), ossia che a lui della gente frega un cazzo, l'unica cosa che gli sta a cuore è la buona tecnologia e il kernel,  questa gag della macchina del caffè rotta e nessuno che viene a ripararla nella New York piegata dal blizzard, è una trollata al limite del genio.  
 
-[1]: http://www.inoreader.com/u/anton.demartini
+[1]: [http://arstechnica.com/business/2015/01/linus-torvalds-on-why-he-isnt-nice-i-dont-care-about-you/]
+[2]: [http://linux.conf.au/programme/keynotes]
