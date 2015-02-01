@@ -14,8 +14,7 @@ Ovviamente la risposta ai miei dubbi era - non dentro di me, e sbagliata coma da
 Ho quindi preparato un bel bignamino da mettere dentro la mia memorabile repo su [bitbucket][2] chiamata **michiate**, con tanto di typo che fa proprio il massimo del buzzurro della tastiera.        
 Eccola qui _embeddata_ 
 
-<script src="https://bitbucket.org/antonde/michiate/src/246257ba7aabc44d5c1553ed20b79e36b8adccc5/reset-history.md?embed=t"></script>
-
+<script src="https://bitbucket.org/antonde/michiate/src/28289f40f962d9ee5e10da5d0986adc774747090/reset-history.md?embed=t"></script>
 
 [1]: http://stackoverflow.com/questions/9683279/make-the-current-commit-the-only-initial-commit-in-a-git-repository
 [2]: https://bitbucket.org/antonde/michiate/src/246257ba7aabc44d5c1553ed20b79e36b8adccc5/reset-history.md?at=master
