@@ -23,8 +23,8 @@ Fico, no?
 Poi, quando ho bisogno di ritornare a scrivere i graffiti sulle pareti della caverna, uso [mutt][3] _su anton at dema dot tv_
 
 ---
-**edit delle 18:21**
-Non ce l'ho fatta, ogni volta che buttavo l'occhio al thread della email, questo papagno di signature, più grossa del corpo della mail stessa, la mia vista veniva ferita. 
+**edit delle 18:21**    
+Non ce l'ho fatta. Ogni volta che buttavo l'occhio ad una mail, questo papagno di firma, più grossa del corpo della mail stessa, mi feriva la vista.     
 Ho rimosso tutto, e forse ritorno alla caverna, chi lo sa...
 
 
