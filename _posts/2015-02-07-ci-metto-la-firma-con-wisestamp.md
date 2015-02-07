@@ -22,6 +22,11 @@ Vista infatti la mancanza di una firma nativa, mi sono affidato a [wisestamp][2]
 Fico, no?   
 Poi, quando ho bisogno di ritornare a scrivere i graffiti sulle pareti della caverna, uso [mutt][3] _su anton at dema dot tv_
 
+---
+**edit delle 18:21**
+Non ce l'ho fatta, ogni volta che buttavo l'occhio al thread della email, questo papagno di signature, più grossa del corpo della mail stessa, la mia vista veniva ferita. 
+Ho rimosso tutto, e forse ritorno alla caverna, chi lo sa...
+
 
 [1]: http://inbox.google.com
 [2]: http://www.wisestamp.com/
