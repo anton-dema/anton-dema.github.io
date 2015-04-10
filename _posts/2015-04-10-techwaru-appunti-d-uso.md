@@ -3,7 +3,7 @@ title: Appunti sull'uso di techWARU, qui in Cpline
 author: Dema
 layout: post
 date: 2015-04-10 09:28:24+00:00
-header-img: img/
+header-img: img/repair.jpg
 tags: 
 - appunti
 - techwaru
