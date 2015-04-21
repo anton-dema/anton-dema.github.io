@@ -7,7 +7,7 @@ tags:
 - funk
 - musica
 ---
-L'altro giorno alla radio, mentre andavo a vedere dei divani carissimi dentro gli showroom della città del mobile ho sentito questa canzone
+L'altro giorno alla radio, mentre andavo a vedere dei divani carissimi dentro gli showroom della città del mobile, ho sentito questa canzone:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kLYy6Zm87ys" frameborder="0" allowfullscreen></iframe>
 
