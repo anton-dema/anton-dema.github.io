@@ -22,14 +22,14 @@ Può capitare di voler aggiungere qualche pacchetto, ma essendo scaduto il suppo
 
 La soluzione è cambiare il file sources.list, elencando come target old-releases.ubuntu.com. Ecco un esempio con Gutsy 7.10  :
 
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy main restricted
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy-updates main restricted
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy universe
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy-updates universe
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy multiverse
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy-updates multiverse
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy-security main restricted
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy-security universe
-  deb http://old-releases.ubuntu.com/ubuntu/ gutsy-security multiverse
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy main restricted
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy-updates main restricted
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy universe
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy-updates universe
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy multiverse
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy-updates multiverse
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy-security main restricted
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy-security universe
+    deb http://old-releases.ubuntu.com/ubuntu/ gutsy-security multiverse
 
 Dopo un apt-get update possiamo nuovamente aggiungere il pacchetto preferito con apt-get install.
