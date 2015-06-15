@@ -77,8 +77,8 @@ Ecco lo script qui di seguito:
 in quanto mi è capitato che alcune installazioni di Veeam Endpoint Backup scrivono all'interno del registro di windows come sorgente Veeam EP. In questo caso, occorre rimpiazzare  il testo _Veeam Endpoint Backup_  con  _Veeam EP_. 
 
 Una volta aggiustato lo script con i giusti parametri, possiamo salvarlo con estensione ps1 all'inteno di una directory di nostra scelta.                   
-Io l'ho messo all'interno di *\documents\VEB\veb.ps1*. Quindi basta lanciare powershell, posizionarsi su
- *C:\Users\$User\Documents\VEB\*  e lanciare  *.\veb.ps1* .                 
+Io l'ho messo all'interno di  `\documents\VEB\veb.ps1`. Quindi basta lanciare powershell, posizionarsi su
+ `C:\Users\$User\Documents\VEB\`  e lanciare  `.\veb.ps1` .                 
 Se tutto andrà bene, dovremmo ricevere la mail con il risultato delle ultime copie di Veeam Endpoint Backup. 
 Se abbiamo compilato lo script su un altro computer, dobbiamo compiere un ulteriore passo per sbloccare il file, e fare in modo che powershell non chieda ogni volta se vogliamo eseguire lo script in questione. Lo facciamo da esplora risorse, posizionandoci sul file veb.ps1, cliccando con il tasto destro e scegliendo _sblocca file_.
 
