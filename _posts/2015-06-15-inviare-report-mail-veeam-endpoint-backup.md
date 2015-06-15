@@ -6,7 +6,7 @@ date: 2015-06-15 09:28:24+00:00
 tags: 
 - Veeam
 ---
-## Parte 1: Dotarsi di un server mail all'interno della LAN
+- Parte 1: Dotarsi di un server mail all'interno della LAN
 
 Per avere un servizio che spara messaggi mail, abbiamo bisogno di un server smtp interno, in quanto la quasi totalità degli smtp daemons esterni avrà bisogno di qualche layer di complicazione di autentica, che questo script per powershell, rudimentale, ma molto efficace, non supporta. 
 
@@ -17,7 +17,7 @@ Tralascio la configurazione di un server smtp semplice interno alla lan che facc
 Una volta appurato che il nostro server mail interno riesce correttamente ad inviare email attraverso il relay di mandrillapp, possiamo concentrarci sui singoli client di windows per l'invio di email di allarme per il programma Veeam Endpoint Backup. 
 
 
-## Parte 2: Configurare Windows PowerShell per l'esecuzione di script. 
+- Parte 2: Configurare Windows PowerShell per l'esecuzione di script. 
 
 Già, perché di default, windows power shell non ammette l'esecuzione di script che:
 
@@ -81,7 +81,7 @@ Io l'ho messo all'interno di **\documents\VEB\veb.ps1**. Quindi basta lanciare p
 Se tutto andrà bene, dovremmo ricevere la mail con il risultato delle ultime copie di Veeam Endpoint Backup. 
 Se abbiamo compilato lo script su un altro computer, dobbiamo compiere un ulteriore passo per sbloccare il file, e fare in modo che powershell non chieda ogni volta se vogliamo eseguire lo script in questione. Lo facciamo da esplora risorse, posizionandoci sul file veb.ps1, cliccando con il tasto destro e scegliendo _sblocca file_.
 
-## Automatizziamo con  Pianifica Attività di Windows
+- Automatizziamo con  Pianifica Attività di Windows
 
 Dobbiamo a questo punto pianificare l'esecuzione dello script, di modo che, ogni volta che viene eseguita una copia tramite Veeam Endpoint Backup, una mail di notifica venga inviata al nostro indirizzo email scelto.                     
 Apriamo il gestore di utilità di pianificazione di windows e nel riquadro di destra  scegliamo "Crea attività di base"
