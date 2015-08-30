@@ -6,8 +6,7 @@ date: 2015-06-15 09:28:24+00:00
 tags: 
 - Veeam
 ---
-*Parte 1: Dotarsi di un server mail all'interno della LAN*
-
+*Parte 1: Dotarsi di un server mail all'interno della LAN*<br>
 Per avere un servizio che spara messaggi mail, abbiamo bisogno di un server smtp interno, in quanto la quasi totalità degli smtp daemons esterni avrà bisogno di qualche layer di complicazione di autentica, che questo script per powershell, rudimentale, ma molto efficace, non supporta. 
 
 Per lo scopo, bisognerà appoggiarsi ad un server linux interno alla rete locale, o, in mancanza di un server linux vero e proprio appoggiarsi ad un Raspberry P che può egregiamente funzionare come server smtp di relay esterno. 
