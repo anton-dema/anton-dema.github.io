@@ -1,5 +1,5 @@
 ---
-title: Ragatele 
+title: Ragnatele 
 author: Dema
 layout: post
 date: 2016-02-07 09:28:24+00:00
